@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 Hi, I'm **Joan Ugalde**, a **Computer Engineer** focused on software development, code modding, automation, tooling, and practical technology solutions.
 
@@ -20,9 +20,9 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-## 🧠 Programming Languages
+##  Programming Languages
 
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus\&logoColor=white)
@@ -36,7 +36,7 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-## 🧰 Tools & Development
+## Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
@@ -47,7 +47,7 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-## 🖥️ Systems & Platforms
+##  Systems & Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU/Linux-111111?style=for-the-badge\&logo=gnu\&logoColor=white)
@@ -57,7 +57,7 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-## 🌐 Web Development
+##  Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -67,7 +67,7 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-## 🗃️ Databases
+##  Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -76,7 +76,7 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-## ⚙️ Frameworks & Others
+##  Frameworks & Others
 
 ![.NET](https://img.shields.io/badge/.NET-111111?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-111111?style=for-the-badge\&logo=windows\&logoColor=white)
@@ -85,7 +85,7 @@ I consider myself **self-taught**, adaptable, and always willing to learn new to
 
 ---
 
-# 🧩 Main Interests
+#  Main Interests
 
 ```txt
 Software Engineering
@@ -104,7 +104,7 @@ Technical Problem Solving
 
 ---
 
-# 📫 Contact
+#  Contact
 
 **GitHub:** [@joanjuz](https://github.com/joanjuz)
 **Email:** [joanjuz@gmail.com](mailto:joanjuz@gmail.com)
